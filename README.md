@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Backend developer at LTS<br>I'm based in Brazil<br>I'm looking to transition for fullstack developer
+I'm FullStack Javascript | Node | React <br>I'm based in Brazil
 
 
 ## 🌐 Socials:
