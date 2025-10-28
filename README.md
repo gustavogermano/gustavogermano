@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm FullStack Javascript | Node | React <br>I'm based in Brazil
+I'm Delphi Developer | SpringBoot | React <br>I'm based in Brazil
 
 
 ## 🌐 Socials:
