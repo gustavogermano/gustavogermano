@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm Delphi Developer | SpringBoot | AWS | Docker | Kubernets | React <br>I'm based in Brazil
+I'm Delphi Developer <br>I'm based in Brazil
 
-Looking for a role in Java Springboot developer.
+
 
 
 ## 🌐 Socials:
